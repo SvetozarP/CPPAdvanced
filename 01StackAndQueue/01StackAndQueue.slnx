@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01reverseString/01reverseString.vcxproj" />
+  <Project Path="02stackSum/02stackSum.vcxproj" />
+</Solution>

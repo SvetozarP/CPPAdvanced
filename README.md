@@ -24,6 +24,7 @@ CPP Advanced/
 │   ├── 02stackSum/
 │   ├── 02stackSum01/
 │   ├── 03simpleCalculator/
+│   ├── 04matchingBrakets/
 │   └── 01StackAndQueue.slnx
 └── ...
 ```
@@ -42,6 +43,7 @@ Each exercise is contained in its own directory with:
 - [x] **02stackSum** - Calculate sum of elements in a stack
 - [x] **02stackSum01** - Alternative implementation for stack sum
 - [x] **03simpleCalculator** - Simple calculator implementation using stacks
+- [x] **04matchingBrakets** - Find and print content inside matching brackets using a stack
 
 ## 🚧 Status
 

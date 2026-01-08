@@ -9,4 +9,5 @@
   <Project Path="02stackSum/02stackSum.vcxproj" Id="91fcf0db-dc93-42c0-9dd0-ecae17beb2b5" />
   <Project Path="02stackSum01/02stackSum01.vcxproj" Id="3fb3fa10-886a-4814-8c36-14e744921934" />
   <Project Path="03simpleCalculator/03simpleCalculator.vcxproj" Id="b19996ad-f6bd-4ee9-b534-233eb61e5bf2" />
+  <Project Path="04matchingBrakets/04matchingBrakets.vcxproj" Id="09c8c13f-1c35-4137-bcd9-5edf192f0f28" />
 </Solution>

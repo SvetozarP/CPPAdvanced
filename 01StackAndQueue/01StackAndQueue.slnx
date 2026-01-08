@@ -3,6 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01reverseString/01reverseString.vcxproj" />
-  <Project Path="02stackSum/02stackSum.vcxproj" />
+  <Project Path="01reverseString/01reverseString.vcxproj" Id="e417c398-eeee-4783-998e-9608459d95fc" />
+  <Project Path="01reverseString01/01reverseString01.vcxproj" Id="07685269-5f9f-4496-9dd2-459bbd64bc36" />
+  <Project Path="01reverseStringStringOnly/01reverseStringStringOnly.vcxproj" Id="31a511f0-c1ac-471f-b172-55e414e683af" />
+  <Project Path="02stackSum/02stackSum.vcxproj" Id="91fcf0db-dc93-42c0-9dd0-ecae17beb2b5" />
+  <Project Path="02stackSum01/02stackSum01.vcxproj" Id="3fb3fa10-886a-4814-8c36-14e744921934" />
+  <Project Path="03simpleCalculator/03simpleCalculator.vcxproj" Id="b19996ad-f6bd-4ee9-b534-233eb61e5bf2" />
 </Solution>

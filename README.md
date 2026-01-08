@@ -19,16 +19,29 @@ The repository is organized by topics, with each topic containing multiple exerc
 CPP Advanced/
 ├── 01StackAndQueue/
 │   ├── 01reverseString/
-│   │   └── 01reverseString.cpp
+│   ├── 01reverseString01/
+│   ├── 01reverseStringStringOnly/
 │   ├── 02stackSum/
-│   │   └── 02stackSum.cpp
-│   └── ...
+│   ├── 02stackSum01/
+│   ├── 03simpleCalculator/
+│   └── 01StackAndQueue.slnx
 └── ...
 ```
 
 Each exercise is contained in its own directory with:
 - **Source code** (`.cpp` files)
 - **Visual Studio project files** (`.vcxproj`, `.vcxproj.filters`, etc.)
+
+## ✅ Solutions
+
+### 01. Stack and Queue
+
+- [x] **01reverseString** - Reverse a string using a stack
+- [x] **01reverseString01** - Alternative implementation for reversing a string
+- [x] **01reverseStringStringOnly** - String reversal using string operations only
+- [x] **02stackSum** - Calculate sum of elements in a stack
+- [x] **02stackSum01** - Alternative implementation for stack sum
+- [x] **03simpleCalculator** - Simple calculator implementation using stacks
 
 ## 🚧 Status
 

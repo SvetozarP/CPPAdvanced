@@ -10,4 +10,8 @@
   <Project Path="02stackSum01/02stackSum01.vcxproj" Id="3fb3fa10-886a-4814-8c36-14e744921934" />
   <Project Path="03simpleCalculator/03simpleCalculator.vcxproj" Id="b19996ad-f6bd-4ee9-b534-233eb61e5bf2" />
   <Project Path="04matchingBrakets/04matchingBrakets.vcxproj" Id="09c8c13f-1c35-4137-bcd9-5edf192f0f28" />
+  <Project Path="05printEvenNumbers/05printEvenNumbers.vcxproj" Id="b6b511ce-7d17-49ea-a17d-886a7b61f174" />
+  <Project Path="06supermarket/06supermarket.vcxproj" Id="de0031a3-c886-4bd8-9f47-113d1ae1bd6b" />
+  <Project Path="06supermarket01/06supermarket01.vcxproj" Id="eb460340-9b64-4a87-8d86-50e457e92645" />
+  <Project Path="07hotPotato/07hotPotato.vcxproj" Id="b1118079-f2ce-4d67-9180-5142a1aa4a9d" />
 </Solution>

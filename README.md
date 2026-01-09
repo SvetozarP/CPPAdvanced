@@ -25,6 +25,10 @@ CPP Advanced/
 │   ├── 02stackSum01/
 │   ├── 03simpleCalculator/
 │   ├── 04matchingBrakets/
+│   ├── 05printEvenNumbers/
+│   ├── 06supermarket/
+│   ├── 06supermarket01/
+│   ├── 07hotPotato/
 │   └── 01StackAndQueue.slnx
 └── ...
 ```
@@ -44,6 +48,10 @@ Each exercise is contained in its own directory with:
 - [x] **02stackSum01** - Alternative implementation for stack sum
 - [x] **03simpleCalculator** - Simple calculator implementation using stacks
 - [x] **04matchingBrakets** - Find and print content inside matching brackets using a stack
+- [x] **05printEvenNumbers** - Print even numbers from a queue
+- [x] **06supermarket** - Supermarket queue simulation with customer service
+- [x] **06supermarket01** - Alternative implementation for supermarket queue simulation
+- [x] **07hotPotato** - Hot potato game simulation using queues
 
 ## 🚧 Status
 

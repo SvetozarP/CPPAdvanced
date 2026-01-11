@@ -30,6 +30,16 @@ CPP Advanced/
 │   ├── 06supermarket01/
 │   ├── 07hotPotato/
 │   └── 01StackAndQueue.slnx
+├── 02StacksAndQueuesEx/
+│   ├── 01basicStackOperations/
+│   ├── 02basicQueueOperations/
+│   ├── 03maximumMinimumElement/
+│   ├── 03maximumMinimumElement01/
+│   ├── 04fastFood/
+│   ├── 05fashionBoutique/
+│   ├── 06truckTour/
+│   ├── 07balancedParantheses/
+│   └── 02StacksAndQueuesEx.slnx
 └── ...
 ```
 
@@ -52,6 +62,17 @@ Each exercise is contained in its own directory with:
 - [x] **06supermarket** - Supermarket queue simulation with customer service
 - [x] **06supermarket01** - Alternative implementation for supermarket queue simulation
 - [x] **07hotPotato** - Hot potato game simulation using queues
+
+### 02. Stacks and Queues Exercises
+
+- [x] **01basicStackOperations** - Basic stack operations: push N elements, pop S elements, check if X exists or find minimum
+- [x] **02basicQueueOperations** - Basic queue operations: push N elements, pop S elements, check if X exists or find minimum
+- [x] **03maximumMinimumElement** - Stack operations with commands to push, pop, find maximum, and find minimum elements
+- [x] **03maximumMinimumElement01** - Alternative optimized implementation using auxiliary stacks for max/min tracking
+- [x] **04fastFood** - Fast food restaurant simulation processing orders from a queue
+- [x] **05fashionBoutique** - Fashion boutique rack management using stacks to calculate number of racks needed
+- [x] **06truckTour** - Truck tour problem: find the starting petrol pump index to complete a circular tour
+- [x] **07balancedParantheses** - Check if parentheses, braces, and brackets are balanced using a stack
 
 ## 🚧 Status
 
@@ -84,6 +105,7 @@ g++ 01reverseString.cpp -o 01reverseString
 ## 📝 Topics Covered
 
 - [x] Stack and Queue
+- [x] Stacks and Queues Exercises
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

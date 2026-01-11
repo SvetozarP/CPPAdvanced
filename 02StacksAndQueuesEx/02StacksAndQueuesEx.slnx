@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01basicStackOperations/01basicStackOperations.vcxproj" />
+  <Project Path="02basicQueueOperations/02basicQueueOperations.vcxproj" />
+  <Project Path="03maximumMinimumElement/03maximumMinimumElement.vcxproj" />
+  <Project Path="03maximumMinimumElement01/03maximumMinimumElement01.vcxproj" />
+  <Project Path="04fastFood/04fastFood.vcxproj" />
+  <Project Path="05fashionBoutique/05fashionBoutique.vcxproj" />
+  <Project Path="06truckTour/06truckTour.vcxproj" />
+  <Project Path="07balancedParantheses/07balancedParantheses.vcxproj" />
+</Solution>

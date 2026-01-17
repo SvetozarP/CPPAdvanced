@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01countSameValuesInArray/01countSameValuesInArray.vcxproj" />
+  <Project Path="01countSameValuesInArray01/01countSameValuesInArray01.vcxproj" />
+  <Project Path="02averageStudentGrades/02averageStudentGrades.vcxproj" />
+  <Project Path="03citiesByContinentAndCountry/03citiesByContinentAndCountry.vcxproj" />
+  <Project Path="04recordUniqueNames/04recordUniqueNames.vcxproj" />
+  <Project Path="05parkingLot/05parkingLot.vcxproj" />
+  <Project Path="06uniqueUsernames/06uniqueUsernames.vcxproj" />
+  <Project Path="07setsOfElements/07setsOfElements.vcxproj" />
+  <Project Path="08evenTimes/08evenTimes.vcxproj" />
+</Solution>

@@ -40,6 +40,17 @@ CPP Advanced/
 │   ├── 06truckTour/
 │   ├── 07balancedParantheses/
 │   └── 02StacksAndQueuesEx.slnx
+├── 03MapAndSet/
+│   ├── 01countSameValuesInArray/
+│   ├── 01countSameValuesInArray01/
+│   ├── 02averageStudentGrades/
+│   ├── 03citiesByContinentAndCountry/
+│   ├── 04recordUniqueNames/
+│   ├── 05parkingLot/
+│   ├── 06uniqueUsernames/
+│   ├── 07setsOfElements/
+│   ├── 08evenTimes/
+│   └── 03MapAndSet.slnx
 └── ...
 ```
 
@@ -74,6 +85,18 @@ Each exercise is contained in its own directory with:
 - [x] **06truckTour** - Truck tour problem: find the starting petrol pump index to complete a circular tour
 - [x] **07balancedParantheses** - Check if parentheses, braces, and brackets are balanced using a stack
 
+### 03. Map and Set
+
+- [x] **01countSameValuesInArray** - Count occurrences of same values in an array using map
+- [x] **01countSameValuesInArray01** - Alternative implementation using unordered_map for counting values
+- [x] **02averageStudentGrades** - Calculate and display average grades for students using map with vector of grades
+- [x] **03citiesByContinentAndCountry** - Organize cities by continent and country using nested maps and sets
+- [x] **04recordUniqueNames** - Record unique names in order of first appearance using set and vector
+- [x] **05parkingLot** - Parking lot management system tracking cars using set (IN/OUT commands)
+- [x] **06uniqueUsernames** - Store and display unique usernames in sorted order using set
+- [x] **07setsOfElements** - Find and display common elements between two sets
+- [x] **08evenTimes** - Find an element that appears an even number of times using unordered_map
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -106,6 +129,7 @@ g++ 01reverseString.cpp -o 01reverseString
 
 - [x] Stack and Queue
 - [x] Stacks and Queues Exercises
+- [x] Map and Set
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

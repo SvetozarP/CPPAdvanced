@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01countRealNumbers/01countRealNumbers.vcxproj" />
+  <Project Path="02oddOccurrences/02oddOccurrences.vcxproj" />
+  <Project Path="03largest3/03largest3.vcxproj" />
+  <Project Path="04shortWords/04shortWords.vcxproj" />
+  <Project Path="05sortNumbers/05sortNumbers.vcxproj" />
+  <Project Path="06squares/06squares.vcxproj" />
+  <Project Path="07miners/07miners.vcxproj" />
+</Solution>

@@ -3,13 +3,13 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01countSameValuesInArray/01countSameValuesInArray.vcxproj" />
-  <Project Path="01countSameValuesInArray01/01countSameValuesInArray01.vcxproj" />
-  <Project Path="02averageStudentGrades/02averageStudentGrades.vcxproj" />
-  <Project Path="03citiesByContinentAndCountry/03citiesByContinentAndCountry.vcxproj" />
-  <Project Path="04recordUniqueNames/04recordUniqueNames.vcxproj" />
-  <Project Path="05parkingLot/05parkingLot.vcxproj" />
-  <Project Path="06uniqueUsernames/06uniqueUsernames.vcxproj" />
-  <Project Path="07setsOfElements/07setsOfElements.vcxproj" />
-  <Project Path="08evenTimes/08evenTimes.vcxproj" />
+  <Project Path="01countSameValuesInArray/01countSameValuesInArray.vcxproj" Id="805346d3-3379-49fe-b7ce-23710f8b1225" />
+  <Project Path="01countSameValuesInArray01/01countSameValuesInArray01.vcxproj" Id="b2c5d996-e256-451d-830c-325becedd10a" />
+  <Project Path="02averageStudentGrades/02averageStudentGrades.vcxproj" Id="a31899f5-e02f-43f4-878e-6f25d4ccd0f1" />
+  <Project Path="03citiesByContinentAndCountry/03citiesByContinentAndCountry.vcxproj" Id="00a9a64f-ae00-42da-9484-f2736fe6031f" />
+  <Project Path="04recordUniqueNames/04recordUniqueNames.vcxproj" Id="dab92d9f-b48a-4007-bd98-af4dc7d66b2d" />
+  <Project Path="05parkingLot/05parkingLot.vcxproj" Id="26929971-a3e3-4e0b-aa40-32a5ed680530" />
+  <Project Path="06uniqueUsernames/06uniqueUsernames.vcxproj" Id="f836ec47-5a26-483f-a708-3f574744396a" />
+  <Project Path="07setsOfElements/07setsOfElements.vcxproj" Id="fc160f53-82d8-4a11-abaf-5481cbce1f5e" />
+  <Project Path="08evenTimes/08evenTimes.vcxproj" Id="8dbb1234-994f-4f85-a7e1-29250200f1c8" />
 </Solution>

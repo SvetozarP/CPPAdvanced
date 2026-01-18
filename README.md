@@ -51,7 +51,15 @@ CPP Advanced/
 │   ├── 07setsOfElements/
 │   ├── 08evenTimes/
 │   └── 03MapAndSet.slnx
-└── ...
+└── 04MapAndSetEx/
+    ├── 01countRealNumbers/
+    ├── 02oddOccurrences/
+    ├── 03largest3/
+    ├── 04shortWords/
+    ├── 05sortNumbers/
+    ├── 06squares/
+    ├── 07miners/
+    └── 04MapAndSetEx.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -97,6 +105,16 @@ Each exercise is contained in its own directory with:
 - [x] **07setsOfElements** - Find and display common elements between two sets
 - [x] **08evenTimes** - Find an element that appears an even number of times using unordered_map
 
+### 04. Map and Set Exercises
+
+- [x] **01countRealNumbers** - Count occurrences of real numbers in input and display sorted by value using map
+- [x] **02oddOccurrences** - Find and display words that appear an odd number of times (case-insensitive) using unordered_map
+- [x] **03largest3** - Find and display the 3 largest numbers from input using vector sorting
+- [x] **04shortWords** - Collect and display words shorter than 5 characters in sorted order (case-insensitive) using set
+- [x] **05sortNumbers** - Sort numbers in ascending order and display with " <= " separator using vector
+- [x] **06squares** - Find perfect square numbers from input and display them in descending order using vector
+- [x] **07miners** - Resource mining simulation tracking resource quantities and displaying in order of first appearance using map
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -130,6 +148,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Stack and Queue
 - [x] Stacks and Queues Exercises
 - [x] Map and Set
+- [x] Map and Set Exercises
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

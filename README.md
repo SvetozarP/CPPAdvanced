@@ -60,6 +60,12 @@ CPP Advanced/
     ├── 06squares/
     ├── 07miners/
     └── 04MapAndSetEx.slnx
+└── 05MultidimensionalArrays/
+    ├── 01sumMatrixColumns/
+    ├── 02primaryDiagonal/
+    ├── 03symbolInMatrix/
+    ├── 04diagonalDifference/
+    └── 05MultidimensionalArrays.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -115,6 +121,13 @@ Each exercise is contained in its own directory with:
 - [x] **06squares** - Find perfect square numbers from input and display them in descending order using vector
 - [x] **07miners** - Resource mining simulation tracking resource quantities and displaying in order of first appearance using map
 
+### 05. Multidimensional Arrays
+
+- [x] **01sumMatrixColumns** - Calculate and display the sum of each column in a matrix
+- [x] **02primaryDiagonal** - Calculate the sum of the primary diagonal (top-left to bottom-right) in a square matrix
+- [x] **03symbolInMatrix** - Search for a symbol in a square matrix and return its position, or indicate if it doesn't exist
+- [x] **04diagonalDifference** - Calculate the absolute difference between the sum of the primary diagonal and secondary diagonal in a square matrix
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -149,6 +162,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Stacks and Queues Exercises
 - [x] Map and Set
 - [x] Map and Set Exercises
+- [x] Multidimensional Arrays
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01sumMatrixColumns/01sumMatrixColumns.vcxproj" />
-  <Project Path="02primaryDiagonal/02primaryDiagonal.vcxproj" />
-  <Project Path="03symbolInMatrix/03symbolInMatrix.vcxproj" />
-  <Project Path="04diagonalDifference/04diagonalDifference.vcxproj" />
+  <Project Path="J:/Softuni Solutions/CPP Advanced/05MultidimensionalArrays/01sumMatrixColumns/01sumMatrixColumns.vcxproj" Id="5e94853e-bae9-4ff8-8000-3aea0beceacb" />
+  <Project Path="J:/Softuni Solutions/CPP Advanced/05MultidimensionalArrays/02primaryDiagonal/02primaryDiagonal.vcxproj" Id="91923c58-9a33-4652-b623-9e5779340d04" />
+  <Project Path="J:/Softuni Solutions/CPP Advanced/05MultidimensionalArrays/03symbolInMatrix/03symbolInMatrix.vcxproj" Id="412b9d8a-d346-4c6d-8750-db2e8b06ca4b" />
+  <Project Path="J:/Softuni Solutions/CPP Advanced/05MultidimensionalArrays/04diagonalDifference/04diagonalDifference.vcxproj" Id="6f798041-1da4-4a00-b8cc-e01e59c538db" />
 </Solution>

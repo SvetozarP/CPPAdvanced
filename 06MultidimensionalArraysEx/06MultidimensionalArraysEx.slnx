@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01compareMatrices/01compareMatrices.vcxproj" />
+  <Project Path="02positionOf/02positionOf.vcxproj" />
+  <Project Path="032x2squaresInMatrix/032x2squaresInMatrix.vcxproj" />
+  <Project Path="04snakeMoves/04snakeMoves.vcxproj" />
+  <Project Path="05maximalSum/05maximalSum.vcxproj" />
+  <Project Path="06reverseMatrixDiagonals/06reverseMatrixDiagonals.vcxproj" />
+  <Project Path="07fillTheMatrix/07fillTheMatrix.vcxproj" />
+</Solution>

@@ -60,12 +60,21 @@ CPP Advanced/
     ├── 06squares/
     ├── 07miners/
     └── 04MapAndSetEx.slnx
-└── 05MultidimensionalArrays/
-    ├── 01sumMatrixColumns/
-    ├── 02primaryDiagonal/
-    ├── 03symbolInMatrix/
-    ├── 04diagonalDifference/
-    └── 05MultidimensionalArrays.slnx
+├── 05MultidimensionalArrays/
+│   ├── 01sumMatrixColumns/
+│   ├── 02primaryDiagonal/
+│   ├── 03symbolInMatrix/
+│   ├── 04diagonalDifference/
+│   └── 05MultidimensionalArrays.slnx
+└── 06MultidimensionalArraysEx/
+    ├── 01compareMatrices/
+    ├── 02positionOf/
+    ├── 032x2squaresInMatrix/
+    ├── 04snakeMoves/
+    ├── 05maximalSum/
+    ├── 06reverseMatrixDiagonals/
+    ├── 07fillTheMatrix/
+    └── 06MultidimensionalArraysEx.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -128,6 +137,16 @@ Each exercise is contained in its own directory with:
 - [x] **03symbolInMatrix** - Search for a symbol in a square matrix and return its position, or indicate if it doesn't exist
 - [x] **04diagonalDifference** - Calculate the absolute difference between the sum of the primary diagonal and secondary diagonal in a square matrix
 
+### 06. Multidimensional Arrays Exercises
+
+- [x] **01compareMatrices** - Compare two matrices and determine if they are equal (same dimensions and elements)
+- [x] **02positionOf** - Find and display all positions (row, column) of a given element in a matrix, or indicate if not found
+- [x] **032x2squaresInMatrix** - Count the number of 2x2 squares in a matrix where all four characters are identical
+- [x] **04snakeMoves** - Fill a matrix with a snake pattern: left-to-right on even rows, right-to-left on odd rows, using characters from a string
+- [x] **05maximalSum** - Find the 3x3 submatrix with the maximal sum and display the sum along with the submatrix
+- [x] **06reverseMatrixDiagonals** - Print all matrix diagonals in reverse order (from bottom-right to top-left)
+- [x] **07fillTheMatrix** - Fill a square matrix with numbers in pattern A (column-wise top-to-bottom) or pattern B (snake pattern column-wise)
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -163,6 +182,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Map and Set
 - [x] Map and Set Exercises
 - [x] Multidimensional Arrays
+- [x] Multidimensional Arrays Exercises
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

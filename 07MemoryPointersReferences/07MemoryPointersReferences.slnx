@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01tryParse/01tryParse.vcxproj" />
+  <Project Path="02find/02find.vcxproj" />
+  <Project Path="03order/03order.vcxproj" />
+</Solution>

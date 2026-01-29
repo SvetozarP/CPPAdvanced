@@ -66,15 +66,20 @@ CPP Advanced/
 │   ├── 03symbolInMatrix/
 │   ├── 04diagonalDifference/
 │   └── 05MultidimensionalArrays.slnx
-└── 06MultidimensionalArraysEx/
-    ├── 01compareMatrices/
-    ├── 02positionOf/
-    ├── 032x2squaresInMatrix/
-    ├── 04snakeMoves/
-    ├── 05maximalSum/
-    ├── 06reverseMatrixDiagonals/
-    ├── 07fillTheMatrix/
-    └── 06MultidimensionalArraysEx.slnx
+├── 06MultidimensionalArraysEx/
+│   ├── 01compareMatrices/
+│   ├── 02positionOf/
+│   ├── 032x2squaresInMatrix/
+│   ├── 04snakeMoves/
+│   ├── 05maximalSum/
+│   ├── 06reverseMatrixDiagonals/
+│   ├── 07fillTheMatrix/
+│   └── 06MultidimensionalArraysEx.slnx
+└── 07MemoryPointersReferences/
+    ├── 01tryParse/
+    ├── 02find/
+    ├── 03order/
+    └── 07MemoryPointersReferences.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -147,6 +152,12 @@ Each exercise is contained in its own directory with:
 - [x] **06reverseMatrixDiagonals** - Print all matrix diagonals in reverse order (from bottom-right to top-left)
 - [x] **07fillTheMatrix** - Fill a square matrix with numbers in pattern A (column-wise top-to-bottom) or pattern B (snake pattern column-wise)
 
+### 07. Memory, Pointers and References
+
+- [x] **01tryParse** - Parse integers from strings manually (character by character); add two numbers if both parse successfully, otherwise output error for invalid input
+- [x] **02find** - Store name–index pairs in a raw buffer using pointers; look up a name by index via a map of indices to C-style string pointers
+- [x] **03order** - Store name–value pairs in a raw buffer; sort entries by value using pointers and output in ascending order
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -183,6 +194,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Map and Set Exercises
 - [x] Multidimensional Arrays
 - [x] Multidimensional Arrays Exercises
+- [x] Memory, Pointers and References
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01gaussTrick/01gaussTrick.vcxproj" />
+  <Project Path="02removeNegativesAndReverse/02removeNegativesAndReverse.vcxproj" />
+  <Project Path="03printInParts/03printInParts.vcxproj" />
+  <Project Path="03someOrdering/03someOrdering.vcxproj" />
+  <Project Path="05compareMatrices/05compareMatrices.vcxproj" />
+  <Project Path="06minesweeper/06minesweeper.vcxproj" />
+</Solution>

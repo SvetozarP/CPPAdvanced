@@ -80,10 +80,18 @@ CPP Advanced/
 │   ├── 02find/
 │   ├── 03order/
 │   └── 07MemoryPointersReferences.slnx
-└── 08MemoryManagement/
-    ├── 01minBy/
-    ├── 02removeInvalid/
-    └── 08MemoryManagement.slnx
+├── 08MemoryManagement/
+│   ├── 01minBy/
+│   ├── 02removeInvalid/
+│   └── 08MemoryManagement.slnx
+└── 09MemoryMngmtPointersReferencesEx/
+    ├── 01gaussTrick/
+    ├── 02removeNegativesAndReverse/
+    ├── 03printInParts/
+    ├── 03someOrdering/
+    ├── 05compareMatrices/
+    ├── 06minesweeper/
+    └── 09MemoryMngmtPointersReferencesEx.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -167,6 +175,15 @@ Each exercise is contained in its own directory with:
 - [x] **01minBy** - Split a line into words (dynamic allocation); find earliest lexicographically, shortest, or longest string by choice; proper cleanup of allocated memory
 - [x] **02removeInvalid** - Read company id and name pairs; store only valid entries (id ≥ 0) using a function pointer; print companies with another function pointer
 
+### 09. Memory Management, Pointers and References Exercises
+
+- [x] **01gaussTrick** - Sum pairs from both ends of a list (first+last, second+second-last, etc.) using function pointers
+- [x] **02removeNegativesAndReverse** - Remove negative numbers from a list and reverse it; filter and print via function pointers
+- [x] **03printInParts** - Create, fill, and print a dynamically allocated 2D array; print only first R×C portion; proper deallocation and function pointers
+- [x] **03someOrdering** - Read a line and output lowercase and uppercase versions using function pointers (toLowerCase / toUpperCase)
+- [x] **05compareMatrices** - Read two matrices (fixed-size arrays); compare for equality using pointers and a function pointer
+- [x] **06minesweeper** - Read a character matrix ('!' = mine); build output matrix with mine counts in 3×3 neighborhood; dynamic allocation, cleanup, and function pointers
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -205,6 +222,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Multidimensional Arrays Exercises
 - [x] Memory, Pointers and References
 - [x] Memory Management
+- [x] Memory Management, Pointers and References Exercises
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

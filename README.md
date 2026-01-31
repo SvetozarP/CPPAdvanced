@@ -75,11 +75,15 @@ CPP Advanced/
 │   ├── 06reverseMatrixDiagonals/
 │   ├── 07fillTheMatrix/
 │   └── 06MultidimensionalArraysEx.slnx
-└── 07MemoryPointersReferences/
-    ├── 01tryParse/
-    ├── 02find/
-    ├── 03order/
-    └── 07MemoryPointersReferences.slnx
+├── 07MemoryPointersReferences/
+│   ├── 01tryParse/
+│   ├── 02find/
+│   ├── 03order/
+│   └── 07MemoryPointersReferences.slnx
+└── 08MemoryManagement/
+    ├── 01minBy/
+    ├── 02removeInvalid/
+    └── 08MemoryManagement.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -158,6 +162,11 @@ Each exercise is contained in its own directory with:
 - [x] **02find** - Store name–index pairs in a raw buffer using pointers; look up a name by index via a map of indices to C-style string pointers
 - [x] **03order** - Store name–value pairs in a raw buffer; sort entries by value using pointers and output in ascending order
 
+### 08. Memory Management
+
+- [x] **01minBy** - Split a line into words (dynamic allocation); find earliest lexicographically, shortest, or longest string by choice; proper cleanup of allocated memory
+- [x] **02removeInvalid** - Read company id and name pairs; store only valid entries (id ≥ 0) using a function pointer; print companies with another function pointer
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -195,6 +204,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Multidimensional Arrays
 - [x] Multidimensional Arrays Exercises
 - [x] Memory, Pointers and References
+- [x] Memory Management
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

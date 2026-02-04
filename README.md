@@ -84,14 +84,19 @@ CPP Advanced/
 │   ├── 01minBy/
 │   ├── 02removeInvalid/
 │   └── 08MemoryManagement.slnx
-└── 09MemoryMngmtPointersReferencesEx/
-    ├── 01gaussTrick/
-    ├── 02removeNegativesAndReverse/
-    ├── 03printInParts/
-    ├── 03someOrdering/
-    ├── 05compareMatrices/
-    ├── 06minesweeper/
-    └── 09MemoryMngmtPointersReferencesEx.slnx
+├── 09MemoryMngmtPointersReferencesEx/
+│   ├── 01gaussTrick/
+│   ├── 02removeNegativesAndReverse/
+│   ├── 03printInParts/
+│   ├── 03someOrdering/
+│   ├── 05compareMatrices/
+│   ├── 06minesweeper/
+│   └── 09MemoryMngmtPointersReferencesEx.slnx
+└── 10ExamPrep/
+    ├── 01letters/
+    ├── 02rust/
+    ├── 03matchingLocations/
+    └── 10ExamPrep.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -184,6 +189,12 @@ Each exercise is contained in its own directory with:
 - [x] **05compareMatrices** - Read two matrices (fixed-size arrays); compare for equality using pointers and a function pointer
 - [x] **06minesweeper** - Read a character matrix ('!' = mine); build output matrix with mine counts in 3×3 neighborhood; dynamic allocation, cleanup, and function pointers
 
+### 10. Exam Prep
+
+- [x] **01letters** - Parse text into words; for each query letter (until "."), find and output words containing that letter (unique, using set)
+- [x] **02rust** - 10×10 grid simulation: rust ('!') spreads each time step to adjacent cells; '#' is rust-resistant; BFS to compute rust times, output state after given time
+- [x] **03matchingLocations** - Read location records (name, latitude, longitude); query by name or by coordinates; output matching locations using maps
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -223,6 +234,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Memory, Pointers and References
 - [x] Memory Management
 - [x] Memory Management, Pointers and References Exercises
+- [x] Exam Prep
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes

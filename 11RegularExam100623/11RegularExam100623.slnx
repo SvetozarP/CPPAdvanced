@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01shoppingList/01shoppingList.vcxproj" />
+  <Project Path="02theMatrix/02theMatrix.vcxproj" />
+  <Project Path="03productsAndCities/03productsAndCities.vcxproj" />
+</Solution>

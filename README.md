@@ -92,11 +92,16 @@ CPP Advanced/
 │   ├── 05compareMatrices/
 │   ├── 06minesweeper/
 │   └── 09MemoryMngmtPointersReferencesEx.slnx
-└── 10ExamPrep/
-    ├── 01letters/
-    ├── 02rust/
-    ├── 03matchingLocations/
-    └── 10ExamPrep.slnx
+├── 10ExamPrep/
+│   ├── 01letters/
+│   ├── 02rust/
+│   ├── 03matchingLocations/
+│   └── 10ExamPrep.slnx
+└── 11RegularExam100623/
+    ├── 01shoppingList/
+    ├── 02theMatrix/
+    ├── 03productsAndCities/
+    └── 11RegularExam100623.slnx
 ```
 
 Each exercise is contained in its own directory with:
@@ -195,6 +200,12 @@ Each exercise is contained in its own directory with:
 - [x] **02rust** - 10×10 grid simulation: rust ('!') spreads each time step to adjacent cells; '#' is rust-resistant; BFS to compute rust times, output state after given time
 - [x] **03matchingLocations** - Read location records (name, latitude, longitude); query by name or by coordinates; output matching locations using maps
 
+### 11. Regular Exam (10.06.23)
+
+- [x] **01shoppingList** - Shopping list: read items (name, price, quantity); compute total sum and per-item totals; output total and items sorted by total price (descending) using multimap
+- [x] **02theMatrix** - Read n×n matrix; sum prime numbers in the region below both diagonals (lower-right); output the sum
+- [x] **03productsAndCities** - Read city, price, quantity; aggregate total sales per city; output each city with its total using map
+
 ## 🚧 Status
 
 **Work in Progress** - This repository is actively being updated as I progress through the course. New exercises and solutions will be added regularly.
@@ -235,6 +246,7 @@ g++ 01reverseString.cpp -o 01reverseString
 - [x] Memory Management
 - [x] Memory Management, Pointers and References Exercises
 - [x] Exam Prep
+- [x] Regular Exam (10.06.23)
 - [ ] (More topics will be added as the course progresses)
 
 ## 📖 Notes
